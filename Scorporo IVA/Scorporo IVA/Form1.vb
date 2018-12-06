@@ -1,4 +1,18 @@
-﻿Option Strict Off
+' Programma creato da: hackerscrackers
+' Data creazione: 06/12/2018
+' 
+'Il programma tiene conto solo delle prime cinque cifre dopo la virgola.
+'
+'Formula usata:
+'               (100 * prezzo lordo) / 122 = risultato
+'               prezzo lordo - risultato = iva scorporata
+'               risultato + iva = prezzo lordo
+'
+'Es:            (100 * 17) /122 = 13,93442
+'               17 - 13,93442 = 3,06558
+'               13,93442 + 3,06558 = 17
+
+Option Strict Off
 
 Public Class Form1
 
