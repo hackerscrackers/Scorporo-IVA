@@ -11,6 +11,9 @@
 'Es:            (100 * 17) /122 = 13,93442
 '               17 - 13,93442 = 3,06558
 '               13,93442 + 3,06558 = 17
+'
+' Il codice non presenta problemi sè si usano numeri interi come ad es. 17 
+' invece con numeri come 3215.93 (3216,00) in parentesi il problema, un risultato arrotondato.
 
 Option Strict Off
 
