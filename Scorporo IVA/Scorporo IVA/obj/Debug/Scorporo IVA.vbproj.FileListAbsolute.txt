@@ -1,0 +1,22 @@
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\bin\Debug\Scorporo IVA.exe.config
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\bin\Debug\Scorporo IVA.exe
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\bin\Debug\Scorporo IVA.pdb
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\bin\Debug\Scorporo IVA.xml
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo_IVA.Form1.resources
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo_IVA.Resources.resources
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo IVA.vbproj.GenerateResource.cache
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo IVA.vbproj.CoreCompileInputs.cache
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo IVA.exe
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo IVA.xml
+C:\Users\Nicola\AppData\Local\Temporary Projects\Scorporo IVA\obj\Debug\Scorporo IVA.pdb
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\bin\Debug\Scorporo IVA.exe.config
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\bin\Debug\Scorporo IVA.exe
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\bin\Debug\Scorporo IVA.pdb
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\bin\Debug\Scorporo IVA.xml
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo_IVA.Form1.resources
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo_IVA.Resources.resources
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo IVA.vbproj.GenerateResource.cache
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo IVA.vbproj.CoreCompileInputs.cache
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo IVA.exe
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo IVA.xml
+C:\Users\Nicola\Documents\I miei Programmi\Visual Studio 2010\Projects\Scorporo IVA\Scorporo IVA\obj\Debug\Scorporo IVA.pdb
