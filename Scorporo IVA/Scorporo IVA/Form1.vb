@@ -12,18 +12,16 @@
 '               17 - 13,93442 = 3,06558
 '               13,93442 + 3,06558 = 17
 '
-' Il codice non presenta problemi sè si usano numeri interi come ad es. 17 
-' invece con numeri come 3215.93 (3216,00) in parentesi il problema, un risultato arrotondato.
 
 Option Strict Off
 
 Public Class Form1
 
 
-
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         If TextBox1.Text = "" Then
             Exit Sub
+
         End If
 
         Try
@@ -42,23 +40,25 @@ Public Class Form1
             Dim Senzaiva As String = lordo - d5
             Dim formata1 As String = FormatNumber(Senzaiva, 5)
             TextBox3.Text = formata1
-                
+
+
 
             Dim a As Double = TextBox2.Text
             Dim b As Double = TextBox3.Text
 
-            
-            TextBox4.Text = a + b 
-
-
+            'Dim c = CUInt(a) + CUInt(b)
+            TextBox4.Text = a + b 'CUInt(a) + CUInt(b)
 
         Catch ex As Exception
-                
             MsgBox(ex.ToString)
-                
         End Try
 
     End Sub
 
-
+    Private Sub TextBox4_TextChanged(sender As Object, e As EventArgs) Handles TextBox4.TextChanged
+        Dim result As Double = TextBox4.Text
+        Dim StringFormat As String
+        StringFormat = String.Format(result, "###'###'###.#####")
+    End Sub
+        
 End Class
